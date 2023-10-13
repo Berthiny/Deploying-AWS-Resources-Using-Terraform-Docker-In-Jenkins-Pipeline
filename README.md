@@ -17,8 +17,6 @@ CREATE JENKINS SERVER
 
 We could spin up an EC2 instance and configure Jenkins manually but to make things easier, we will just grab an AMI from the AWS Marketplace. There will be a small cost associated with this because of the instance type. Jenkins is open source and does incur a cost.
 
-*If you would like to install Jenkins yourself for bonus points, check out my project to install Jenkins using an Ansible Playbook.*
-
 Navigate to AWS Marketplace.
 Click Discover products.
 Search for “Jenkins” and select Jenkins Certified by Bitnami.
